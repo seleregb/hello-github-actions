@@ -9,4 +9,4 @@ jobs:
     - uses: ./action-a
       env:
         MY_NAME: "Gbenro"
-        CAREER: "Developer"
+        CAREER: "Full-Stack Developer"
